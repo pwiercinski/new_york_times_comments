@@ -8,5 +8,6 @@ What are people reading? What is their sentiment towards it? What topics are pop
 - Each article is assigned a primary and secondary topic, article specific as well as topic specific sentiment is evaluated based on the comments data (step 3 notebook). <br> 
 - A simple predictor is built to validate the topic assignment (step 4 notebook). Finally some open ended analysis is carried out on the resulting data set of topic tagged and sentiment evaluated articles.
 <br>
+
 ### 2. Data
 New York Times Comments data set available on kaggle (https://www.kaggle.com/aashita/nyt-comments).
