@@ -15,6 +15,7 @@ New York Times Comments data set available on kaggle (https://www.kaggle.com/aas
 ### 3. Method
  - Step 1 - data acquisition <br>
  Nothing facy here, using urls from the data set full texts of articles are downloaded to be used as training data in topic modelling.
- - Step 2
- - Step 3
- - Step 4
+ - Step 2 - LDA modelling
+ - Step 3 - comments sentiment analysis
+ - Step 4 - validation
+ - Step 5 - exploratory analysis
