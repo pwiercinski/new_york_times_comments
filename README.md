@@ -13,7 +13,7 @@ What are people reading? What is their sentiment towards it? What topics are pop
 New York Times Comments data set available on kaggle (https://www.kaggle.com/aashita/nyt-comments).
 <br>
 ### 3. Method
-#### - Step 1
-#### - Step 2
-#### - Step 3
-#### - Step 4
+ - Step 1
+ - Step 2
+ - Step 3
+ - Step 4
