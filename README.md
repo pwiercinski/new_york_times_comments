@@ -1,7 +1,7 @@
 ## New York Times Comments Data
 
 ### 1. Idea
-What are people reading? What is their sentiment towards it? What topics are popular? Finally, would it be possible to model individuals preferences knowing the topics they're interested in and their sentiment towards them?
+What are people reading? What is their sentiment towards it? What topics are popular? Finally, would it be possible to model individuals' preferences knowing the topics they're interested in and their sentiment towards them?
 <br>
 - In an attempt to answer the above questions the New York Times articles are web scraped using links available in the kaggle New York Times Comments Data data set (step 1 notebook). <br> 
 - A Latent Dirichlet Allocation model is applied to learn the associated topic distribution (step 2 notebook). <br>
